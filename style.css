@@ -1,0 +1,33 @@
+#surname {
+    text-align: center;
+}
+
+.it {
+    text-indent: 1rem;
+}
+
+.about {
+    border-radius: 1rem;
+    text-align: center;
+    padding-right: 0px;
+    margin: 0px;
+}
+
+.body1 {
+    border-radius: 2rem;
+    margin: 5%;
+    background-color: cornflowerblue;
+}
+
+.profile {
+    margin: 4rem;
+}
+
+
+/*.dtails {
+    text-align: center;
+}*/
+
+.summary {
+    list-style: square;
+}
