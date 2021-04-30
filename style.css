@@ -9,8 +9,8 @@
 .about {
     border-radius: 1rem;
     text-align: center;
-    padding-right: 0px;
-    margin: 0px;
+    padding-right: 0;
+    margin: 0;
 }
 
 .body1 {
@@ -24,10 +24,12 @@
 }
 
 
-/*.dtails {
-    text-align: center;
-}*/
+.dtails {
+
+}
 
 .summary {
     list-style: square;
+
 }
+s
