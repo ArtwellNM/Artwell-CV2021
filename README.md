@@ -1,2 +1,3 @@
-# Artwell-CV2021
-Artwell-CV2021
+# ArtwellNM.github.io
+
+Curriculum Vitae
